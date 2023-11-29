@@ -1,0 +1,11 @@
+main.c:68:6:blink_red	8	static
+main.c:71:6:blink_amber	8	static
+main.c:74:6:blink_green	8	static
+main.c:77:6:blink_pink	8	static
+main.c:80:6:blink_purple	8	static
+main.c:83:5:main	8	static
+main.c:130:6:SystemClock_Config	72	static
+main.c:166:13:MX_TIM2_Init	32	static
+main.c:211:13:MX_GPIO_Init	32	static
+main.c:234:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:244:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,4 @@
+blink.c:11:6:blink_red	8	static
+blink.c:14:6:blink_amber	8	static
+blink.c:17:6:blink_green	8	static
+blink.c:20:6:blink_pink	8	static
